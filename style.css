@@ -1,11 +1,12 @@
 .body{
-    color: black;
+    background-color: black;
 }
 .logo {
     width: 100px;
     height: 100px;
+    display: flex;
 }
-.nav a{
+.na{
     color: white;
     text-decoration: none;
     margin-left: 20px;
