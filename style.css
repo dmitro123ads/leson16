@@ -1,13 +1,40 @@
-body{
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
     background-color: black;
 }
+
 .logo {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     display: inline;
+    margin-right: 300px;
 }
-.na{
+
+.header {
+    display: inline;
+    vertical-align: 22px;
+}
+
+.na {
     color: white;
     text-decoration: none;
-    margin-left: 20px;
+    margin-left: 35px;
+    vertical-align: 22px;
+    
+
+}
+
+nav {
+    display: inline;
+   margin-right: 200px;
+   vertical-align: 22px;
+}
+
+.apps {
+    display: inline;
+    margin-left: 40px;
+    vertical-align: 22px;   
+
 }
