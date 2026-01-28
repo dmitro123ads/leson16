@@ -48,3 +48,13 @@ nav {
     color: white;
     
 }
+ .hero_text{
+    display: inline-block;
+    max-width: 30%;
+    vertical-align: 100px;
+ }
+.button{
+    background-color: yellow;
+    width: 150px;
+    height: 30px;
+}
