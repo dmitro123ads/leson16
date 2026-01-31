@@ -105,3 +105,12 @@ nav {
     margin-bottom: 50px;
     
 }
+.phone{
+    display: inline-block;
+    max-width: 35%;
+    max-height: 500px;
+    margin-left: 100px;
+}
+.form form{
+    background-color: black;
+}
